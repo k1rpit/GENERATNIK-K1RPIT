@@ -1,1 +1,25 @@
 # GENERATNIK-K1RPIT
+<summary><b>Python nickname pipeline tool for security auditing</b></summary>
+<summary><b>this uses a split architecture: an entropy-based generator and a low-level mutation engine</b></summary>
+<summary><b>These scripts were written for practice and cover cybersecurity topics.</b></summary>
+
+<details>
+<summary>About me </summary>
+
+My Python TG channel:https://t.me
+My repos:https://github.com
+
+</details>
+=============================================================================================================
+
+<summary><b>Инструмент на Python для генерации и мутации никнеймов</b></summary>
+<summary><b>здесь используется раздельная архитектура: генератор на основе энтропии и низкоуровневый движок мутаций</b></summary>
+<summary><b>Эти скрипты были написаны для практики и затрагивают темы информационной безопасности.</b></summary>
+
+<details>
+<summary>Обо мне </summary>
+
+Мой Python ТГ-канал:https://t.me
+Мои репозитории:https://github.com
+
+</details>
