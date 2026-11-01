@@ -6,8 +6,9 @@
 <details>
 <summary>About me </summary>
 
-My Python TG channel:https://t.me
-My repos:https://github.com
+My Python TG channel:https://t.me/k1rpit718s
+My repos:https://github.com/k1rpit?tab=repositories
+
 
 </details>
 =============================================================================================================
@@ -19,7 +20,8 @@ My repos:https://github.com
 <details>
 <summary>Обо мне </summary>
 
-Мой Python ТГ-канал:https://t.me
-Мои репозитории:https://github.com
+Мой Python ТГ-канал:https://t.me/k1rpit718s
+Мои репозитории:https://github.com/k1rpit?tab=repositories
+
 
 </details>
